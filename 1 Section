@@ -1,0 +1,22 @@
+Objective
+Encrypt a file on Windows
+Decrypt the file to verify integrity
+Understand password‑based file encryption
+Demonstrate basic data‑at‑rest protection
+Document the workflow for cybersecurity learning
+Tools Used
+Windows OS
+Windows file encryption tool (e.g., 7‑Zip AES‑256, Windows EFS, or similar)
+GitHub (Documentation)
+Steps Performed
+Selected a test file to encrypt
+Used a Windows encryption tool to apply password‑based encryption
+Verified the encrypted output file
+Decrypted the file using the same password
+Confirmed the decrypted file matched the original
+Documented the entire process
+How file‑level encryption protects data at rest
+How Windows handles encrypted files
+How password‑based encryption works
+How to decrypt and verify file integrity
+Basic data protection and security fundamentals
